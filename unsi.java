@@ -12,8 +12,6 @@ class unsi
 		System.out.println(s);
 		}
 		catch (Exception e ) {}
-	}
-	
-	
+	}	
 }
 	
