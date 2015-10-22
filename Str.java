@@ -16,11 +16,9 @@ class Str
 				s=s.substring(3,8); //3-й символ игнорируется
 				System.out.println(s);
 			}
-			else System.out.println("Less than 8 symbols in the word"); //exit
-			//add
+			else System.out.println("Less than 8 symbols in the word");
 		}
 		}catch (Exception e) {}
-	
 	}
 }
 	
