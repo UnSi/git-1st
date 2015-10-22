@@ -17,7 +17,6 @@ class Str
 				System.out.println(s);
 			}
 			else System.out.println("Less than 8 symbols in the word");
-			//add
 		}
 		}catch (Exception e) {}
 	
