@@ -8,6 +8,7 @@ class unsi
 		BufferedReader r = new BufferedReader(new InputStreamReader(System.in));
 		String s = r.readLine();
 		System.out.println(s);
+		System.out.println("Added String");
 		}
 		catch (Exception e ) {}
 	}	
